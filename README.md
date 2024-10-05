@@ -25,12 +25,14 @@ To install and run the project on your machine, follow these steps:
    ```bash
    git clone https://github.com/oxayavongsa/NLP-Chatbot.git
    cd NLP-Chatbot
-### Create and activate a virtual environment
-* python3 -m venv chatbot-env
-* source chatbot-env/bin/activate
+2. **Create and activate a virtual environment**:
+   ```bash
+   python3 -m venv chatbot-env
+   source chatbot-env/bin/activate
 
-### Install the required packages:
-* pip install -r requirements.txt
+3. ** Install the required packages**:
+   ```bash
+   pip install -r requirements.txt
 
 ### Run the Chatbot:
 * Open Chatbot.ipynb in Jupyter Notebook or Colab to run the chatbot interactively.
