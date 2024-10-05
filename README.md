@@ -1,4 +1,5 @@
-# Context-Aware Movie Chatbot: Multi-Turn Conversations with Sentiment-Driven Responses
+# Context-Aware Movie Chatbot: 
+## Multi-Turn Conversations with Sentiment-Driven Responses
 
 [![Project Status: Active](https://img.shields.io/badge/Project%20Status-Active-green.svg)](https://github.com/oxayavongsa/NLP-Chatbot)
 [![GitHub issues](https://img.shields.io/github/issues/oxayavongsa/NLP-Chatbot.svg)](https://github.com/oxayavongsa/NLP-Chatbot/issues)
