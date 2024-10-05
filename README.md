@@ -14,8 +14,8 @@ The chatbot is trained using the **Cornell Movie Dialogs Corpus**, enabling it t
 
 ## Team Members:
 - **Outhai Xayavongsa** - Team Leader [![GitHub](https://img.shields.io/badge/GitHub-oxayavongsa-lightgrey)](https://github.com/oxayavongsa)
-- **Saad Saeed** - Lead Assistant
-- **Anand Fernandes** - Team Member
+- **Saad Saeed** - Lead Assistant [![GitHub](https://img.shields.io/badge/GitHub-SaadaSaeed86-lightgrey)](https://github.com/SaadaSaeed86)
+- **Anand Fernandes** - Team Member [![GitHub](https://img.shields.io/badge/GitHub-af0808-lightgrey)](https://github.com/af0808)
 
 ## Installation
 
