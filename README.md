@@ -10,7 +10,7 @@ This project is part of the AAI-520: Natural Language Processing course in the *
 
 The chatbot is trained using the **Cornell Movie Dialogs Corpus**, enabling it to handle diverse conversations with coherence, context-awareness, and emotional sensitivity.
 
-[Visit the Cornell Movie-Dialogs Corpus]([https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html](https://www.kaggle.com/datasets/rajathmc/cornell-moviedialog-corpus))
+[Visit the Cornell Movie-Dialogs Corpus](https://www.kaggle.com/datasets/rajathmc/cornell-moviedialog-corpus)
 
 ## Project Status: 🚀 Active
 
