@@ -30,7 +30,7 @@ To install and run the project on your machine, follow these steps:
    python3 -m venv chatbot-env
    source chatbot-env/bin/activate
 
-3. ** Install the required packages**:
+3. **Install the required packages**:
    ```bash
    pip install -r requirements.txt
 
