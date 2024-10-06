@@ -42,8 +42,8 @@ To install and run the project on your machine, follow these steps:
    kaggle datasets download -d rajathmc/cornell-moviedialog-corpus
    unzip cornell-moviedialog-corpus.zip
 
-6. **  ** (web interface? add here)
-  ```bash
+5. (web interface here?)
+  
    
    
 
