@@ -75,4 +75,4 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 ## Acknowledgements
 * Thanks to Cristian Danescu-Niculescu-Mizil and Lillian Lee for providing the Cornell Movie-Dialogs Corpus.
 * Special thanks to Professor Kahila Mokhtari, Ph.D., for guidance throughout the course.
-* Collaboration tools: GitHub, Slack, and Google Colab.
+* Collaboration tools: GitHub, Slack, and Jupyter Notebook/Google Colab.
