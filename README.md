@@ -36,6 +36,16 @@ To install and run the project on your machine, follow these steps:
    ```bash
    pip install -r requirements.txt
 
+4. **Download the Cornell Movie-Dialog Corpus**:
+   ```bash
+   kaggle datasets download -d rajathmc/cornell-moviedialog-corpus
+unzip cornell-moviedialog-corpus.zip
+
+5. **  ** (web interface? add here)
+  ```bash
+   
+   
+
 ### Run the Chatbot:
 * Open Chatbot.ipynb in Jupyter Notebook or Colab to run the chatbot interactively.
 * Or, use the command line interface to interact with the chatbot.
