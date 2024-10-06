@@ -39,7 +39,7 @@ To install and run the project on your machine, follow these steps:
 4. **Download the Cornell Movie-Dialog Corpus**:
    ```bash
    kaggle datasets download -d rajathmc/cornell-moviedialog-corpus
-unzip cornell-moviedialog-corpus.zip
+   unzip cornell-moviedialog-corpus.zip
 
 5. **  ** (web interface? add here)
   ```bash
