@@ -36,12 +36,13 @@ To install and run the project on your machine, follow these steps:
    ```bash
    pip install -r requirements.txt
 
-4. **Download the Cornell Movie-Dialog Corpus**:
+4. **Download the Cornell Movie-Dialog Corpus**
+   <i>(optional if downloading from Kaggle intead of your local drive)</i>:
    ```bash
    kaggle datasets download -d rajathmc/cornell-moviedialog-corpus
    unzip cornell-moviedialog-corpus.zip
 
-5. **  ** (web interface? add here)
+6. **  ** (web interface? add here)
   ```bash
    
    
