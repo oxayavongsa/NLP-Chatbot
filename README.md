@@ -4,6 +4,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/oxayavongsa/NLP-Chatbot.svg)](https://github.com/oxayavongsa/NLP-Chatbot/issues)
 [![GitHub stars](https://img.shields.io/github/stars/oxayavongsa/NLP-Chatbot.svg)](https://github.com/oxayavongsa/NLP-Chatbot/stargazers)
 [![GitHub license](https://img.shields.io/github/license/oxayavongsa/NLP-Chatbot.svg)](https://github.com/oxayavongsa/NLP-Chatbot/blob/main/LICENSE)
+[![Python Version](https://img.shields.io/badge/python-3.10-blue.svg)](https://python.org)
 
 ## Project Overview
 This project is part of the AAI-520: Natural Language Processing course in the **Applied Artificial Intelligence Program** at the University of San Diego under the guidance of **Professor Kahila Mokhtari, Ph.D.** Our goal is to design and implement a **generative-based chatbot** that not only engages in multi-turn conversations but also incorporates **sentiment analysis** to adapt its responses based on the emotional tone of user input.
@@ -11,6 +12,21 @@ This project is part of the AAI-520: Natural Language Processing course in the *
 The chatbot is trained using the **Cornell Movie Dialogs Corpus**, enabling it to handle diverse conversations with coherence, context-awareness, and emotional sensitivity.
 
 [Visit the Cornell Movie-Dialogs Corpus](https://www.kaggle.com/datasets/rajathmc/cornell-moviedialog-corpus)
+
+# Repository Structure (edit when project complete)
+
+| File/Folder Name | Description |
+| ---------------- | ----------- |
+| `NLP_Chatbot.ipynb` | The Jupyter Notebook containing the entire codebase for the chatbot project. |
+| `NLP_Chatbot.pdf` | A PDF version of the Jupyter Notebook for easy sharing and reviewing. |
+| `NLP_Chatbot.py` | A Python script version of the Jupyter Notebook for running the code outside of a notebook environment. |
+| `data/` | Contains the raw dataset used in the project, including the Cornell Movie-Dialog Corpus. |
+| `README.md` | This document, describing the project and repository structure. |
+| `requirements.txt` | Lists all the dependencies and libraries required to run the project. |
+| `LICENSE` | The licensing information for the project. |
+| `.gitignore` | Specifies files and directories that should be ignored by Git. |
+| `models-diagrams/` | Contains any diagrams or visual representations of the model architecture. |
+| `trained_models/` | Contains pre-trained or trained model weights. |
 
 ## Project Status: 🚀 Active
 
