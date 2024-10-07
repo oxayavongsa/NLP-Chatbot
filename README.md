@@ -59,9 +59,6 @@ To install and run the project on your machine, follow these steps:
    unzip cornell-moviedialog-corpus.zip
 
 5. (web interface here?)
-  
-   
-   
 
 ### Run the Chatbot:
 * Open Chatbot.ipynb in Jupyter Notebook or Colab to run the chatbot interactively.
@@ -78,6 +75,8 @@ To install and run the project on your machine, follow these steps:
 * Natural Language Processing (NLP)
 * Deep Learning using Transformer-based models
 * Sentiment Analysis for emotionally aware responses
+
+## Methodology Used (complete when done)
 
 ## Technologies
 * Python for development.
