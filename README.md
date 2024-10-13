@@ -39,7 +39,7 @@ The chatbot is trained using the **Cornell Movie Dialogs Corpus**, enabling it t
 
 To install and run the project on your machine, follow these steps:
 
-1.  **Clone the repository**:
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/oxayavongsa/NLP-Chatbot.git
    cd NLP-Chatbot
