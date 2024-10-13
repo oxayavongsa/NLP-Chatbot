@@ -92,8 +92,6 @@ To install and run the project on your machine, follow these steps:
 * Hugging Face Transformers for leveraging pre-trained models (T5).
 * Jupyter Notebook or Google Colab for experimentation and testing.
 
-## Methodology Used (complete when done)
-
 ## Technologies
 * Preprocessing: Data was cleaned by removing punctuation, stopwords, lemmatization, and rare words.
 * Model Architecture: T5 (Text-To-Text Transfer Transformer) is used for multi-turn conversations and context-aware responses.
