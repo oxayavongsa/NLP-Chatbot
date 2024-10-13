@@ -18,7 +18,7 @@ The chatbot is trained using the **Cornell Movie Dialogs Corpus**, enabling it t
 
 | File/Folder Name         | Description                                                                 |
 | ------------------------ | --------------------------------------------------------------------------- |
-| `Chatbot_GenerativeAI.ipynb` | The Jupyter Notebook containing all the code for building and evaluating the chatbot. |
+| `Final Project Report-Team 6.ipynb` | The Jupyter Notebook containing all the code for building and evaluating the chatbot. |
 | `requirements.txt`        | Dependencies required for the project (e.g., TensorFlow, PyTorch, Hugging Face). |
 | `README.md`              | The project overview and structure (this file).                             |
 | `data/`                  | Raw dataset files, including the Cornell Movie-Dialog Corpus.               |
