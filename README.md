@@ -47,14 +47,14 @@ To install and run the project on your machine, follow these steps:
 2. **Create and activate a virtual environment**:
    ```bash
    python3 -m venv chatbot-env
-   source chatbot-env/bin/activate  # On Windows use: chatbot-env\Scripts\activate
+   source chatbot-env/bin/activate=
 
 3. **Install the required packages**:
    ```bash
    pip install -r requirements.txt
 
 4. **Download the Cornell Movie-Dialog Corpus**
-   <br><i>(optional if downloading from Kaggle intead of your local drive)</i>:
+   <i>(optional if downloading from Kaggle intead of your local drive)</i>:
    ```bash
    kaggle datasets download -d rajathmc/cornell-moviedialog-corpus
    unzip cornell-moviedialog-corpus.zip
