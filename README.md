@@ -15,18 +15,18 @@ The chatbot is trained using the **Cornell Movie Dialogs Corpus**, enabling it t
 
 # Repository Structure (edit when project complete)
 
-| File/Folder Name | Description |
-| ---------------- | ----------- |
-| `NLP_Chatbot.ipynb` | The Jupyter Notebook containing the entire codebase for the chatbot project. |
-| `NLP_Chatbot.pdf` | A PDF version of the Jupyter Notebook for easy sharing and reviewing. |
-| `NLP_Chatbot.py` | A Python script version of the Jupyter Notebook for running the code outside of a notebook environment. |
-| `data/` | Contains the raw dataset used in the project, including the Cornell Movie-Dialog Corpus. |
-| `README.md` | This document, describing the project and repository structure. |
-| `requirements.txt` | Lists all the dependencies and libraries required to run the project. |
-| `LICENSE` | The licensing information for the project. |
-| `.gitignore` | Specifies files and directories that should be ignored by Git. |
-| `models-diagrams/` | Contains any diagrams or visual representations of the model architecture. |
-| `trained_models/` | Contains pre-trained or trained model weights. |
+
+| File/Folder Name         | Description                                                                 |
+| ------------------------ | --------------------------------------------------------------------------- |
+| `Chatbot_GenerativeAI.ipynb` | The Jupyter Notebook containing all the code for building and evaluating the chatbot. |
+| `requirements.txt`        | Dependencies required for the project (e.g., TensorFlow, PyTorch, Hugging Face). |
+| `README.md`              | The project overview and structure (this file).                             |
+| `data/`                  | Raw dataset files, including the Cornell Movie-Dialog Corpus.               |
+| `models/`                | Trained model checkpoints.                                                  |
+| `.gitignore`             | Lists files/directories ignored by Git.                                     |
+| `LICENSE`                | Licensing information for the project.                                      |
+
+---
 
 ## Project Status: 🚀 Active
 
@@ -39,14 +39,15 @@ The chatbot is trained using the **Cornell Movie Dialogs Corpus**, enabling it t
 
 To install and run the project on your machine, follow these steps:
 
-1. **Clone the repository**:
+1.  **Clone the repository**:
    ```bash
    git clone https://github.com/oxayavongsa/NLP-Chatbot.git
    cd NLP-Chatbot
+
 2. **Create and activate a virtual environment**:
    ```bash
    python3 -m venv chatbot-env
-   source chatbot-env/bin/activate
+   source chatbot-env/bin/activate  # On Windows use: chatbot-env\Scripts\activate
 
 3. **Install the required packages**:
    ```bash
@@ -58,7 +59,7 @@ To install and run the project on your machine, follow these steps:
    kaggle datasets download -d rajathmc/cornell-moviedialog-corpus
    unzip cornell-moviedialog-corpus.zip
 
-5. (web interface here?)
+5. python NLP_Chatbot.py
 
 ### Run the Chatbot:
 * Open Chatbot.ipynb in Jupyter Notebook or Colab to run the chatbot interactively.
@@ -72,28 +73,28 @@ To install and run the project on your machine, follow these steps:
 * In total, 304,713 utterances with metadata such as genres, release year, IMDB rating, and character gender.
 
 ## Methods Used
-* Natural Language Processing (NLP)
-* Deep Learning using Transformer-based models
-* Sentiment Analysis for emotionally aware responses
+* Python for development.
+* PyTorch for model training.
+* Hugging Face Transformers for leveraging pre-trained models (T5).
+* Jupyter Notebook or Google Colab for experimentation and testing.
 
 ## Methodology Used (complete when done)
 
 ## Technologies
-* Python for development.
-* TensorFlow / PyTorch for model training.
-* Hugging Face Transformers for leveraging pre-trained models like GPT.
-* Jupyter Notebook or Google Colab for experimentation and testing.
+* Preprocessing: Data was cleaned by removing punctuation, stopwords, lemmatization, and rare words.
+* Model Architecture: T5 (Text-To-Text Transfer Transformer) is used for multi-turn conversations and context-aware responses.
+* Sentiment Analysis: Incorporated into the chatbot to adjust responses based on the user's emotional tone.
 
 ## How the Chatbot Works
-The chatbot leverages a Transformer-based architecture to generate responses. It maintains multi-turn conversations, adjusts based on the context, and incorporates sentiment analysis to reflect the emotional tone of the user's input. It was trained on the Cornell Movie-Dialogs Corpus, allowing it to mimic conversational flows and adapt to different styles of dialogues.
+The chatbot uses a **Transformer-based model (T5)** to maintain multi-turn conversations. The **sentiment analysis** layer allows the chatbot to detect and adapt to emotional cues in the user's input, generating appropriate responses. It has been trained using the **Cornell Movie-Dialogs Corpus**, giving it the ability to handle movie-like dialogues with contextual coherence.
 
 ### Example Usage
 (Replace the above link with an actual gif demo or video)
 
 ## Future Improvements
-* Enhancing context retention over longer conversations.
-* Fine-tuning the model for specific conversational tones or styles.
-* Improving the user interface for web or mobile platforms.
+* Enhanced context retention over longer conversations.
+* Fine-tuning the model for specific conversational styles or tones.
+* Improving the user interface for better interaction.
 
 ## License
 This project is licensed under the MIT License – see the LICENSE file for details.
