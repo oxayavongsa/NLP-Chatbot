@@ -58,8 +58,9 @@ To install and run the project on your machine, follow these steps:
    kaggle datasets download -d rajathmc/cornell-moviedialog-corpus
    unzip cornell-moviedialog-corpus.zip
 
-   **Run the Chatbot**:
-5. python NLP_Chatbot.py
+5. **Run the Chatbot**:
+   ```bash
+   python NLP_Chatbot.py
 
 ## Run the Chatbot
 * Option 1: Open Chatbot.ipynb in Jupyter Notebook or Google Colab to run the chatbot interactively.
