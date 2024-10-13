@@ -1,0 +1,38 @@
+# Virtual environment
+chatbot-env/
+venv/
+.env
+
+# Model files (large files like pre-trained models or checkpoints)
+models/*.bin
+models/*.pt
+
+# Data files (raw datasets or compressed files)
+data/
+*.csv
+*.zip
+*.tar.gz
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyTorch cache and Hugging Face cache (where pre-trained models are downloaded)
+__pycache__/
+*.pyc
+.cache/
+huggingface/
+
+# Logs and other system-generated files
+*.log
+*.pkl
+*.h5
+
+# IDE/Editor specific files (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# MacOS-specific files
+.DS_Store
+
+# Python compiled files
+*.py[cod]
