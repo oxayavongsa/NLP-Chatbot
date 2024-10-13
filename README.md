@@ -47,23 +47,23 @@ To install and run the project on your machine, follow these steps:
 2. **Create and activate a virtual environment**:
    ```bash
    python3 -m venv chatbot-env
-   source chatbot-env/bin/activate=
+   source chatbot-env/bin/activate
 
 3. **Install the required packages**:
    ```bash
    pip install -r requirements.txt
 
-4. **Download the Cornell Movie-Dialog Corpus**
-   <i>(optional if downloading from Kaggle intead of your local drive)</i>:
+4. **Download the Cornell Movie-Dialog Corpus**:
    ```bash
    kaggle datasets download -d rajathmc/cornell-moviedialog-corpus
    unzip cornell-moviedialog-corpus.zip
 
+   **Run the Chatbot**:
 5. python NLP_Chatbot.py
 
-### Run the Chatbot:
-* Open Chatbot.ipynb in Jupyter Notebook or Colab to run the chatbot interactively.
-* Or, use the command line interface to interact with the chatbot.
+## Run the Chatbot
+* Option 1: Open Chatbot.ipynb in Jupyter Notebook or Google Colab to run the chatbot interactively.
+* Option 2: Use the command line interface to interact with the chatbot (see step 5 above).
 
 ## Dataset Information
 * We used the Cornell Movie-Dialogs Corpus which contains:
