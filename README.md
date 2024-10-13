@@ -27,6 +27,19 @@ The chatbot is trained using the **Cornell Movie Dialogs Corpus**, enabling it t
 | `LICENSE`                | Licensing information for the project.                                      |
 
 ---
+## Final Project Report
+
+The final deliverables for this project include a comprehensive report in **PDF format** that contains:
+
+- The full project report
+- The Jupyter Notebook code
+- References and additional materials
+
+### Final Deliverables:
+- **Final Project Report-Team 6.ipynb**: The complete notebook, including model training, evaluation, and chatbot implementation.
+- **Final Project Report-Team 6.pdf**: The final report, which includes the notebook, references, and other materials.
+
+Please refer to these files for all the details regarding the project, methodology, and evaluation.
 
 ## Project Status: 🚀 Active
 
