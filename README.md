@@ -33,12 +33,13 @@ The final deliverables for this project include a comprehensive report in **PDF 
 
 - The full project report
 - The Jupyter Notebook code
+- Powerpoint presentation
 - References and additional materials
 
 ### Final Deliverables:
-- 1. **Final_Project_Notebook_Team_6.pdf**: The full notebook converted to PDF, containing all code, analysis, and chatbot implementation.
-- 2. **Final_Project_Report_Team_6.pdf**: The final project report, including methodology, results, and references.
-- 3. **Final_PowerPoint_Presentation_Team_6.pptx**: The PowerPoint presentation summarizing key points and project progress.
+- **Final_Project_Notebook_Team_6.pdf**: The full notebook converted to PDF, containing all code, analysis, and chatbot implementation.
+- **Final_Project_Report_Team_6.pdf**: The final project report, including methodology, results, and references.
+- **Final_PowerPoint_Presentation_Team_6.pptx**: The PowerPoint presentation summarizing key points and project progress.
 
 Please refer to these files for all the details regarding the project, methodology, and evaluation.
 
