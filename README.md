@@ -43,7 +43,7 @@ The final deliverables for this project include a comprehensive report in **PDF 
 
 Please refer to these files for all the details regarding the project, methodology, and evaluation.
 
-## Project Status: 🚀 Active
+## Project Status: ✅ Completed
 
 ## Team Members:
 - **Outhai Xayavongsa** - Team Leader [![GitHub](https://img.shields.io/badge/GitHub-oxayavongsa-lightgrey)](https://github.com/oxayavongsa)
